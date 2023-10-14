@@ -1,5 +1,3 @@
 # ghcraft test
 
-
-test again 
-line 5
+craft is crafty craft is crafty craft is crafty 
